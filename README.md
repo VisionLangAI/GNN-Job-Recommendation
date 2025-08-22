@@ -29,7 +29,7 @@ We evaluate both **baseline models** and **advanced models** for textual and num
 - GraphSAGE  
 
 ### 🔹 Proposed Model  
-- Custom **Graph Neural Network (GNN)** for job recommendation  
+- **Graph Neural Network (GNN)** for job recommendation  
 
 ---
 
