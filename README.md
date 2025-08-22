@@ -103,7 +103,3 @@ pip install -r requirements.txt
 3. Run all cells to reproduce results (confusion matrices, reports, recommendations).  
 
 ---
-
-## 📜 License  
-
-This project is licensed under **CC BY-SA 4.0** – consistent with the dataset license.  
